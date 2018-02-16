@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FFListApp</string>
+
+
+    <string name="twitter_consumer_key" translatable="false">M633u3Va8pLISyIPsPvcErqjD</string>
+    <string name="twitter_consumer_secret" translatable="false">dKKDshMvJiQRKyF4sBown8YNYURuTXVjvyiUp45M1xBxFF9cPi</string>
+
+</resources>
